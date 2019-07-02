@@ -5,6 +5,8 @@
  */
 package controlador;
 
+import tela.manutencao.ManutencaoProfessor;
+
 /**
  *
  * @author Administrador
